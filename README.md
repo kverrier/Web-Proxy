@@ -10,3 +10,8 @@ were:
 -   proxy.h &amp; proxy.c
 -   cache.h &amp; cache.c
 
+In addition to the core files, the following were used for testing:
+
+-   driver.pl
+-   concurrency_test.sh
+
