@@ -15,3 +15,4 @@ In addition to the core files, the following were used for testing:
 -   driver.pl
 -   concurrency_test.sh
 
+For implementation details, please refer to source files.
